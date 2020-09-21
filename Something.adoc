@@ -1,0 +1,8 @@
+== Introduction
+
+This is an asciidoc document.
+
+[plantuml, Text, png]
+----
+include::file1.puml[]
+----
